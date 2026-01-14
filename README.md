@@ -1,2 +1,2 @@
 # new project2
-all new
+all new.
